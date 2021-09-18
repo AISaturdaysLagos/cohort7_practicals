@@ -28,5 +28,5 @@ the [Pushshift Reddit Dump](https://files.pushshift.io/reddit/) and the [AfriFas
 | 3 | [Tweepy](https://docs.tweepy.org/en/stable/) | #TODO |
 
 ## Project Ideas
-- Scrap a property listing website such as [Nigeria Property Centre](https://nigeriapropertycentre.com/) and create dataset for a Housing Price Regression problem
+- Scrape a property listing website such as [Nigeria Property Centre](https://nigeriapropertycentre.com/) and create dataset for a Housing Price Regression problem
 - Train a spacy-ner model on the corpus (find [here](https://github.com/masakhane-io/masakhane-ner/tree/main/data/pcm)), [this](https://towardsdatascience.com/train-ner-with-custom-training-data-using-spacy-525ce748fab7) tutorial can be of help. Then use the trained model to make prediction on the pidgin corpus that you scraped. You can then use label-studio to verify the predicted entities as done in [this](https://labelstud.io/blog/Evaluating-Named-Entity-Recognition-parsers-with-spaCy-and-Label-Studio.html) tutorial. 
