@@ -7,11 +7,6 @@ pip install -r requirements.txt
 ```
 - Go through `scraper.ipynb` 
 - Use your learnings from `scraper.ipynb` to complete the `scraper.py` 😃
-- Compare your scraper to the [solution](https://github.com/theyorubayesian/bbc_pidgin_scraper). You can also clone this solution repository using
-```
-$ bash solution.sh
-```
-
 ## Access to live presentation slide
 - Data Labelling with Label Studio: [Link to Slide](https://docs.google.com/presentation/d/1nZdH_ap8ykmRsz57pS87mqM4lcRIb9ilvkQQf4qYvXc/edit?usp=sharing)
 
