@@ -1,5 +1,7 @@
-*/.ipynb_checkpoints
+.ipynb_checkpoints/
 /.vscode
 /.idea
 *__pycache__
 .DS_Store
+/*env
+webscraping_and_data_labelling/webscraping_env
