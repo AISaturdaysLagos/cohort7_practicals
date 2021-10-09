@@ -18,9 +18,9 @@ pip install -r requirements.txt
 ```
 
 ## `Data`
-
+Apart from made up datasets, this practical uses the `Loan Default Prediction` dataset available on [Kaggle](https://www.kaggle.com/kmldas/loan-default-prediction). The data is fictional but has been created from actual data from a financial institution.
 ## `Resources`
-* Introduction to Pandas (Relational Data) by Gideon Onyewuenyi & Sarah Oriji: [Presentation Slide](https://docs.google.com/presentation/d/1sFl4uJkbGuYrkPwy88t3WQrEHKTqikJNptMk2wprTXM/edit?usp=sharing)
+* Introduction to Pandas (Relational Data) by Gideon Onyewuenyi & Sarah Oriji: [Presentation Slide](https://docs.google.com/presentation/d/1sFl4uJkbGuYrkPwy88t3WQrEHKTqikJNptMk2wprTXM/edit?usp=sharing), [Presentation Slide PDF](introduction_to_pandas/presentation_intro_to_pandas.pdf)
 * [Pandas Documentation (PDF)](https://pandas.pydata.org/pandas-docs/stable/pandas.pdf)
 * [Python Data Science Handbook: Essential Tools for Working With Data](https://jakevdp.github.io/PythonDataScienceHandbook/) by Jake VanderPlas
 * [Missing Data Conundrum: Exploration and Imputation Techniques](https://medium.com/@WalePhenomenon/missing-data-conundrum-exploration-and-imputation-techniques-9f40abe0fd87) by Wale Akinfaderin
