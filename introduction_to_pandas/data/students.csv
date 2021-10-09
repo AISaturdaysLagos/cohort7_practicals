@@ -1,0 +1,21 @@
+student_id,name,age,sport,Biology_score,Maths_score,English_score,amount_paid,Gender
+1,Emmanuel Ayomide,27,Football,73,58,65,29600,Male
+2,Ibrahim Musa,24,Football,92,56,80,30000,Male
+3,Sesan Obi,24,Swimming,67,95,71,40000,Female
+4,Kevin Frank,25,Tennis,53,85,74,26100,Male
+5,Emeka Jude,24,Basketball,86,80,93,26410,Male
+6,Caroline Obi,27,Basketball,92,71,79,31200,Female
+7,Franklin Oladele,18,Football,96,,70,29800,Male
+8,Kola Ola,28,Swimming,82,95,58,40000,Female
+9,Emmanuel Ovi,23,Tennis,79,61,68,32500,Female
+10,Kareem Musa,24,Football,78,73,86,30000,Female
+11,Mustapha Ahmed,24,,88,84,,26500,Male
+12,Femi Akin,24,Tennis,90,97,85,40000,Male
+13,Tobi Olaniyan,22,Volleyball,51,79,84,30000,Male
+14,Kayode Ibrahim,25,Football,58,67,84,31100,Female
+15,Nnamdi Ike,26,Swimming,,62,88,29100,Male
+16,Ahmed Musa,24,Football,60,90,81,32400,Male
+17,Kevin Frank,25,Tennis,53,85,74,25100,Male
+18,Susan James,27,Volleyball,76,69,54,27100,Female
+19,Zainab Mohammed,25,Basketball,64,95,94,30000,Female
+20,Sesan Obi,26,Swimming,67,95,71,25700,Female
