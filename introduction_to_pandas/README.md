@@ -19,7 +19,6 @@ pip install -r requirements.txt
 
 ## `Data`
 
-
 ## `Resources`
 * Introduction to Pandas (Relational Data) by Gideon Onyewuenyi & Sarah Oriji: [Presentation Slide](https://docs.google.com/presentation/d/1sFl4uJkbGuYrkPwy88t3WQrEHKTqikJNptMk2wprTXM/edit?usp=sharing)
 * [Pandas Documentation (PDF)](https://pandas.pydata.org/pandas-docs/stable/pandas.pdf)
