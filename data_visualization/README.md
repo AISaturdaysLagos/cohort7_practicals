@@ -36,7 +36,7 @@ pip install -r requirements.txt
 | S/N | Tool | Awesome projects |
 | --- | ---- | ---------------- |
 | 1 | [Folium](https://python-visualization.github.io/folium/index.html) | [Complete End to End Geographical Data Visualization Project for Python Beginners](https://medium.com/analytics-vidhya/complete-end-to-end-geographical-data-visualization-project-for-python-beginners-f977b51afac8) |
-| 2 | [Dash](https://medium.com/plotly/introducing-dash-5ecf7191b503 | [Interactive, Web-Based Dashboards in Python](https://alysivji.github.io/reactive-dashboards-with-dash.html) |
+| 2 | [Dash](https://medium.com/plotly/introducing-dash-5ecf7191b503) | [Interactive, Web-Based Dashboards in Python](https://alysivji.github.io/reactive-dashboards-with-dash.html) |
 | 3 | [Seaborn](https://seaborn.pydata.org/) | [Mexican Government Report Text Analysis](https://github.com/PhantomInsights/mexican-government-report) |
 
 ## Project Ideas
