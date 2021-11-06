@@ -5,7 +5,7 @@ Scikit-learn is an open source machine learning library that supports supervised
 The bulk of the time and effort data scientists dedicate to building machine learning models are usually spent on cleaning the data (Extraction, Transformation and Loading operations, fixing missing values, feature engineering, handling categorical variables, etc.). It is also helpful to carry out exploratory data analysis (EDA) to better understand the dataset and identify promising tactics. Both processes would be shown in this practical.
 
 
-We run go through the step by step process of building a machine learning model using scikit-learn and the wine quality dataset. We would also look at some useful tips and tricks.
+We'd go through the step by step process of building a machine learning model using scikit-learn and the wine quality dataset. We would also look at some useful tips and tricks.
 
 
 The visualization tools used are [Matplotlib](https://matplotlib.org/) and [Seaborn](https://seaborn.pydata.org/)
@@ -13,7 +13,7 @@ The visualization tools used are [Matplotlib](https://matplotlib.org/) and [Seab
 
 ## Setup:
 - If you haven't already, clone this repo. 
-- We use virtual environments in ti. If you already have a virtual environment created for a previous practical, you can simply activate the environment and install the libraries using
+- As done for previous tasks, we'll use virtual environment to manage all our installations. If you already have a virtual environment created for a previous practical, you can simply activate the environment and install the libraries using
 ```
 pip install matplotlib seaborn scikit-learn pandas
 ```
