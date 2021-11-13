@@ -25,3 +25,4 @@ You can find the dataset and feature description [here](https://www.kaggle.com/h
 1. [PyOD documentaion](https://pyod.readthedocs.io/en/latest/)
 2. [Anomaly detection for Dummies](https://towardsdatascience.com/anomaly-detection-for-dummies-15f148e559c1)
 3. [Examples from the documentation](https://pyod.readthedocs.io/en/latest/example.html)
+4. [Understanding Boxplots](https://towardsdatascience.com/understanding-boxplots-5e2df7bcbd51)
