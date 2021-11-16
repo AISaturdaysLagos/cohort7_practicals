@@ -1,0 +1,123 @@
+0) Scikit Learn: Choosing the right metric guild
+
+https://scikit-learn.org/stable/modules/model_evaluation.html
+
+
+1) Commonly used Machine Learning Algorithms (with Python and R Codes)
+
+https://www.analyticsvidhya.com/blog/2017/09/common-machine-learning-algorithms/
+
+
+2) Scikit-Learn Cheat Sheet: Python Machine Learning
+
+https://www.datacamp.com/community/blog/scikit-learn-cheat-sheet
+
+
+3) 4 Types of Classification Tasks in Machine Learning
+
+https://machinelearningmastery.com/types-of-classification-in-machine-learning/
+
+
+4) How to tackle any classification problem end to end & choose the right classification ML algorithm.
+
+https://towardsdatascience.com/how-to-tackle-any-classification-problem-end-to-end-choose-the-right-classification-ml-algorithm-4d0becc6a295
+
+
+5) The-5-classification-evaluation-metrics-you-must-know
+
+https://towardsdatascience.com/the-5-classification-evaluation-metrics-you-must-know-aa97784ff226
+
+
+6) 16 Data Science Project Ideas with Source Code to Strengthen your Resume - DataFlair
+
+https://data-flair.training/blogs/data-science-project-ideas/
+
+
+7) A Complete Tutorial which teaches Data Exploration in detail
+
+https://www.analyticsvidhya.com/blog/2016/01/guide-data-exploration/
+
+
+8) Missing Data Conundrum: Exploration and Imputation Techniques | by Wale Akinfaderin | IBM Watson Data | Medium
+
+https://medium.com/ibm-data-science-experience/missing-data-conundrum-exploration-and-imputation-techniques-9f40abe0fd87
+
+
+9) Dimensionality Reduction Algorithms: Strengths and Weaknesses
+
+https://elitedatascience.com/dimensionality-reduction-algorithms
+
+
+10) SMOTE for Imbalanced Classification with Python
+
+https://machinelearningmastery.com/smote-oversampling-for-imbalanced-classification/
+
+
+11) A Gentle Introduction to Threshold-Moving for Imbalanced Classification
+
+https://machinelearningmastery.com/threshold-moving-for-imbalanced-classification/
+
+
+12) Classification vs. Prediction | Statistical Thinking
+
+https://www.fharrell.com/post/classification/
+
+
+13) Three Pandas Functions Every Data Engineer Who Uses Python Should Know | by David Beare | The Startup | Medium
+
+https://medium.com/swlh/five-pandas-functions-every-data-engineer-who-uses-python-should-know-c27cbbda927b
+
+
+14) Top 10 Popular GitHub Repositories to learn about Data Science. | by Benedict Neo | Towards Data Science
+
+https://towardsdatascience.com/top-10-popular-github-repositories-to-learn-about-data-science-4acc7b99c44
+
+
+15) Machine Learning Course by AI Business School | GitHUB
+
+https://github.com/KutayAkalin/ML_Course_9-11-20
+
+
+16) knathanieltucker/bit-of-data-science-and-scikit-learn: Youtube tutorial associated content
+
+https://github.com/knathanieltucker/bit-of-data-science-and-scikit-learn
+
+
+17) P-values Explained By Data Scientist - KDnuggets
+
+https://www.kdnuggets.com/2019/07/p-values-explained-data-scientist.html
+
+
+18) Algorithms to Live By – By Brian Christian , Tom Griffiths Full AudioBook | Audeliver
+
+http://audeliver.com/file/3nPdwxAzMiIUpv
+
+
+19) A Gentle Introduction to Imbalanced Classification
+
+https://machinelearningmastery.com/what-is-imbalanced-classification/
+
+
+20) Choosing the Right Metric for Evaluating Machine Learning
+
+https://www.kdnuggets.com/2018/06/right-metric-evaluating-machine-learning-models-2.html
+
+
+21) A Gentle Introduction to Ensemble Learning
+
+https://machinelearningmastery.com/what-is-ensemble-learning/#:~:text=A%20complementary%20approach%20is%20to,to%20as%20%E2%80%9Censemble%20learning%E2%80%9C.
+
+
+22) Ensemble Learning Algorithms With Python
+
+https://machinelearningmastery.com/ensemble-learning-algorithms-with-python/
+
+
+23) How to Handle Missing Data with Python
+
+https://machinelearningmastery.com/handle-missing-data-python/
+
+
+24) How to Deal with Missing Values in Your Dataset - KDnuggets
+
+https://www.kdnuggets.com/2020/06/missing-values-dataset.html
