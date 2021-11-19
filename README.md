@@ -15,7 +15,7 @@ Week | Date | Topic | TAs
 7 | 16-Oct | [Industrial Strength Visualization libraries](4_Data_Visualization) |  [Sharon Ibejih](https://www.linkedin.com/in/sharonibejih/)
 8 | 23-Oct | [Intro to Numpy](5_Introduction_to_Numpy) | [Akintunde Oladipo](https://www.linkedin.com/in/olasakins/), [Gideon Onyewuenyi](https://www.linkedin.com/in/gideononyewuenyi/), [Sandra Oriji](https://www.linkedin.com/in/oriji-sandra-onyinyechi-91a4a3163/)
 9 | 6-Nov | [Intro to Sklearn](6_Introduction_to_Scikit_Learn) |  [Chizurum Olorondu](https://www.linkedin.com/in/chizurumolorondu/)
-10 | 30-Oct | Outlier and Anomaly Detection | -
-11 | 13-Nov | Model and Data Versioning| -
+10 | 30-Oct | [Outlier and Anomaly Detection](7_Outlier_and_Anomaly_Detection) | [Kawthar Babatunde](https://www.linkedin.com/in/kawtharbabatunde/)
+11 | 13-Nov | Model and Data Versioning| [Akintunde Oladipo](https://www.linkedin.com/in/olasakins/)
 12 | 20-Nov | Feature Engineering Automation | -
 13 | 27-Nov | Model Serving and Monitoring| -
