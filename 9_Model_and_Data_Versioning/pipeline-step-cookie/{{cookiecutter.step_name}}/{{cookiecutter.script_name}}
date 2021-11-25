@@ -3,6 +3,8 @@
 """
 import argparse
 import logging
+import time
+
 import wandb
 
 logging.basicConfig(
@@ -15,7 +17,7 @@ logger = logging.getLogger(__name__)
 
 
 def go(args):
-    run = wandb.init(job_type="{{cookiecutter.job_type}})
+    run = wandb.init(job_type="{{cookiecutter.job_type}}")
     run.config.update(args)
 
     # --------------
@@ -24,14 +26,14 @@ def go(args):
 
 
 if __name__ == "_main__":
-    parser = parser.ArgumentParser(description='{{cookiecutter.short_description}}")
-
-{% for arg_name in cookiecutter.parameters.split(",) %}
+    parser = argparse.ArgumentParser(description="{{cookiecutter.short_description}}")
+{% for arg_name in cookiecutter.parameters.split(",") %}
     parser.add_argument(
-        "--{{arg_name}}
-        type= # TODO
-        help= # TODO
-        required=True
+        "--{{arg_name}}",
+        type= # TODO,
+        default= # TODO,
+        help= # TODO,
+        required= # TODO,
     )
 {% endfor %}
 

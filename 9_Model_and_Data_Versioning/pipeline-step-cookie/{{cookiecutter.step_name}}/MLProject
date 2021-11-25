@@ -8,6 +8,5 @@ entry_points:
         {{arg_name}}:
             description:    # Add Description
             type:   string
-
 {% endfor %}
         command: "python {{cookiecutter.script_name}} {% for n in cookiecutter.parameters.split(",") %} --{{n}} {{"{"}}{{n}}{{"}"}} {% endfor %}
