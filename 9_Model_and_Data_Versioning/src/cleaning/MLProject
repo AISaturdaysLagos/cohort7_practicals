@@ -1,0 +1,28 @@
+name: cleaning
+conda_env: conda.yml
+
+entry_points:
+    main:
+        parameters:
+
+        input_artifact:
+            description:    # Add Description
+            type:   string
+
+        output_name:
+            description:    # Add Description
+            type:   string
+
+        output_type:
+            description:    # Add Description
+            type:   string
+
+        output_description:
+            description:    # Add Description
+            type:   string
+
+        dropped_columns:
+            description:    # Add Description
+            type:   string
+
+        command: "python run.py  --input_artifact {input_artifact}  --output_name {output_name}  --output_type {output_type}  --output_description {output_description}  --dropped_columns {dropped_columns} 

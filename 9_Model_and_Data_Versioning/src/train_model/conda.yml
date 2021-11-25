@@ -1,0 +1,9 @@
+name: train_model
+channels:
+  - conda-forge
+  - defaults
+dependencies:
+  - python=3.8
+  - pip=21.2.2
+  - pip:
+      - wandb==0.10.30

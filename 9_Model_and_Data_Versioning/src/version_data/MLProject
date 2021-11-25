@@ -1,0 +1,24 @@
+name: version_data
+conda_env: conda.yml
+
+entry_points:
+    main:
+        parameters:
+
+        data:
+            description:    # Add Description
+            type:   string
+
+        artifact_name:
+            description:    # Add Description
+            type:   string
+
+        artifact_type:
+            description:    # Add Description
+            type:   string
+
+        artifact_description:
+            description:    # Add Description
+            type:   string
+
+        command: "python run.py  --data {data}  --artifact_name {artifact_name}  --artifact_type {artifact_type}  --artifact_description {artifact_description} 

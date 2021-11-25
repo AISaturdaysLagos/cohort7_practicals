@@ -1,0 +1,16 @@
+name: feature_engineering
+conda_env: conda.yml
+
+entry_points:
+    main:
+        parameters:
+
+        min_samples_leaf:
+            description:    # Add Description
+            type:   string
+
+        smoothing:
+            description:    # Add Description
+            type:   string
+
+        command: "python run.py  --min_samples_leaf {min_samples_leaf}  --smoothing {smoothing} 
