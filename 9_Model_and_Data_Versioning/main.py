@@ -3,7 +3,6 @@ import os
 import tempfile
 
 import mlflow
-from mlflow.entities import param
 import yaml
 
 STEPS = [
@@ -40,7 +39,6 @@ def main():
             )
 
 
-
 if __name__ == "__main__":
     with open("config.yml", "r") as f:
         try:
@@ -49,3 +47,4 @@ if __name__ == "__main__":
             print(err)
             raise err
 
+    main(config)

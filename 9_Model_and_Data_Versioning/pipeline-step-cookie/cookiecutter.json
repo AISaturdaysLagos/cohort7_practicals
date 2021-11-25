@@ -3,6 +3,6 @@
     "script_name": "run.py",
     "job_type": "my_job",
     "short_description": "Template step",
-    "long_description": "Thi step does one or two things",
+    "long_description": "This step does one or two things",
     "parameters": "param1,param2"
 }
