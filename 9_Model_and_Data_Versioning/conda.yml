@@ -8,5 +8,5 @@ dependencies:
     - matplotlib==3.5.0
     - scikit-learn==1.0.1
     - dvc[gdrive]==2.8.3
-    - wandb=0.12.7
+    - wandb==0.12.7
 prefix: C:\Users\oladipoea\Miniconda3\envs\insurtech
