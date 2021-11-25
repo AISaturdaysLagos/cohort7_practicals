@@ -1,0 +1,8 @@
+{
+    "step_name": "step_name",
+    "script_name": "run.py",
+    "job_type": "my_job",
+    "short_description": "Template step",
+    "long_description": "Thi step does one or two things",
+    "parameters": "param1,param2"
+}
