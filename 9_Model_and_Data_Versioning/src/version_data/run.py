@@ -13,8 +13,10 @@ import wandb
 
 from wandb_utils.log_artifact import log_artifact
 
+os.makedirs("logs", exist_ok=True)
+
 logging.basicConfig(
-    filename=f"logs/ofurufu_{time.time()}.log",
+    filename=f"logs/{time.time()}.log",
     format="%(asctime)s - %(levelname)s - %(name)s - PID: %(process)d -  %(message)s",
     datefmt="%m/%d/%Y %H:%M:%S",
     level=logging.INFO,
@@ -27,8 +29,8 @@ def go(args):
     run.config.update(args)
 
     logger.info(os.getcwd())
-
-    logger.info(f"Uploading {args.artifact_name} to Weights & Biases")
+    
+    print(f"Uploading {args.artifact_name} to Weights & Biases")
     log_artifact(
         artifact_name=args.artifact_name,
         artifact_type=args.artifact_type,
@@ -39,7 +41,7 @@ def go(args):
     
 
 
-if __name__ == "_main__":
+if __name__ == "__main__":
     parser = argparse.ArgumentParser(description="Version input data")
 
     parser.add_argument(

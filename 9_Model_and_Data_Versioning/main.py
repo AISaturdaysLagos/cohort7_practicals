@@ -14,6 +14,7 @@ STEPS = [
 ]
 
 ROOT_PATH = os.getcwd()
+print(ROOT_PATH)
 
 
 def main(config: dict):
@@ -24,10 +25,11 @@ def main(config: dict):
 
     steps = config["main"]["steps"]
     active_steps = steps.split(",") if steps != "all" else STEPS
+    print(active_steps)
 
     with tempfile.TemporaryDirectory() as tmp_dir:
         if "version_data" in active_steps:
-            print("Running version__data step")
+            print("Running version_data step")
             _ = mlflow.run(
                 os.path.join(ROOT_PATH, config["main"]["components_directory"], "version_data"),
                 "main",
