@@ -1,11 +1,17 @@
 """
 This script uploads the input data to W&B as an artifact
+
+Author: Akintunde 'theyorubayesian' Oladipo
+Date: 27 November 2021
 """
 import argparse
 import logging
+import os
 import time
 
 import wandb
+
+from wandb_utils.log_artifact import log_artifact
 
 logging.basicConfig(
     filename=f"logs/ofurufu_{time.time()}.log",
@@ -20,9 +26,17 @@ def go(args):
     run = wandb.init(job_type="Data Versioning")
     run.config.update(args)
 
-    # --------------
-    # YOUR CODE HERE
-    # --------------
+    logger.info(os.getcwd())
+
+    logger.info(f"Uploading {args.artifact_name} to Weights & Biases")
+    log_artifact(
+        artifact_name=args.artifact_name,
+        artifact_type=args.artifact_type,
+        artifact_description=args.artifact_description,
+        filename=os.path.join("data", args.data),
+        wandb_run=run
+    )
+    
 
 
 if __name__ == "_main__":
@@ -30,36 +44,32 @@ if __name__ == "_main__":
 
     parser.add_argument(
         "--data",
-        type= # TODO,
-        default= # TODO,
-        help= # TODO,
-        required= # TODO,
+        type=str,
+        default="train_data.csv",
+        help="Name of data sample to upload",
+        required=True,
     )
 
     parser.add_argument(
         "--artifact_name",
-        type= # TODO,
-        default= # TODO,
-        help= # TODO,
-        required= # TODO,
+        type=str,
+        help="Name of output artifact",
+        required=True,
     )
 
     parser.add_argument(
         "--artifact_type",
-        type= # TODO,
-        default= # TODO,
-        help= # TODO,
-        required= # TODO,
+        type=str,
+        help="Type of artifact uploaded",
+        required=True,
     )
 
     parser.add_argument(
         "--artifact_description",
-        type= # TODO,
-        default= # TODO,
-        help= # TODO,
-        required= # TODO,
+        type=str,
+        help="A brief description of this artifact",
+        required=True,
     )
-
 
     args = parser.parse_args()
     go(args)

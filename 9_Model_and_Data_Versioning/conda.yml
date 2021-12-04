@@ -3,8 +3,8 @@ channels:
   - defaults
 dependencies:
   - python=3.8
+  - mlflow=1.21.0
   - pip:
-    - mlflow==1.21.0
     - matplotlib==3.5.0
     - scikit-learn==1.0.1
     - dvc[gdrive]==2.8.3

@@ -6,19 +6,19 @@ entry_points:
         parameters:
 
         data:
-            description:    # Add Description
+            description:    "Filename to data to be uploaded"
             type:   string
 
         artifact_name:
-            description:    # Add Description
+            description:    "Name of artifact to be uploaded"
             type:   string
 
         artifact_type:
-            description:    # Add Description
+            description:    "Type of artifact uploaded"
             type:   string
 
         artifact_description:
-            description:    # Add Description
+            description:    "A brief description of this artifact"
             type:   string
 
-        command: "python run.py  --data {data}  --artifact_name {artifact_name}  --artifact_type {artifact_type}  --artifact_description {artifact_description} 
+        command: "python run.py --data {data} --artifact_name {artifact_name}  --artifact_type {artifact_type}  --artifact_description {artifact_description}"

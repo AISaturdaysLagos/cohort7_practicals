@@ -1,0 +1,13 @@
+name: insurance_prediction
+conda_env: conda.yml
+
+entry_points:
+  main:
+    parameters:
+      steps:
+        description: Comma-separated list of steps to execute (useful for debugging)
+        type: str
+        default: all
+
+    # command: "python main.py main.steps=\\'{steps}\\' main.wandb_api_key={wandb_api_key} $(echo {override})"
+    command: "python main.py main.steps=\\'{steps}\\'"

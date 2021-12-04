@@ -1,0 +1,15 @@
+main:
+  project_name: insurance_prediction
+  experiment_name: development
+  steps: all
+  components_directory: src
+etl:
+  # ------------
+  # Version Data
+  # ------------
+  data: "train_data.csv"
+
+  # --------
+  # Cleaning
+  # --------
+  input_data: 
