@@ -25,7 +25,7 @@ def go(args):
     # --------------
 
 
-if __name__ == "_main__":
+if __name__ == "__main__":
     parser = argparse.ArgumentParser(description="{{cookiecutter.short_description}}")
 {% for arg_name in cookiecutter.parameters.split(",") %}
     parser.add_argument(
