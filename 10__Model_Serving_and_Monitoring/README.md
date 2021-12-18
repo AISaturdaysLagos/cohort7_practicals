@@ -3,8 +3,8 @@
 
 ====
 
-**Materials prepared by:** Fortune Adekogbe \
-**Practical class taught by:** Tejumade Afonja 
+**Prepared by:** Fortune Adekogbe \
+**Taught by:** Tejumade Afonja 
 
 ====
 
