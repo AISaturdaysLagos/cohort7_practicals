@@ -1,18 +1,17 @@
 # Model Serving and Monitoring with Flask and Heroku
 
 
-====
+This tutorial on model serving and monitoring with Flask and Heroky was prepared by **Fortune Adekogbe** and taught by **Tejumade Afonja**. Kindly reach out to [this email](teju.afonja@aisatudayslagos.com) for any questions or clarifications.
 
-**Prepared by:** Fortune Adekogbe \
-**Taught by:** Tejumade Afonja 
 
-====
+## Resources
 
-[Slide for Model Serving and Monitoring with Flask and Heroku](https://docs.google.com/presentation/d/1MvHjWl2WEF1pEBkwQiYdrkYrMv_HQq-h3ZEVxITpoT4/edit?usp=sharing)
+- [Link to Tutorial Slide](https://docs.google.com/presentation/d/1MvHjWl2WEF1pEBkwQiYdrkYrMv_HQq-h3ZEVxITpoT4/edit?usp=sharing)
+
 
 ## APIs
-- Staging: https://pectus-cancer-app-staging.herokuapp.com/predict
-- Production: https://pectus-cancer-app.herokuapp.com/predict
+- Staging: https://ai6lagos-cancer-app-staging.herokuapp.com/predict
+- Production:https://ai6lagos-cancer-app.herokuapp.com/predict
 
 ## Using test data
 ```
@@ -22,7 +21,7 @@ import json
 
 [X_test, y_test] = joblib.load("test_data.sav")
 
-url = "https://pectus-cancer-app.herokuapp.com/predict"
+url = "https://ai6lagos-cancer-app.herokuapp.com/predict"
 response = requests.post(url, json.dumps(X_test[0]))
 print(response.json(), y_test[0])
 ```
