@@ -7,6 +7,7 @@ This tutorial on model serving and monitoring with Flask and Heroku was prepared
 ## Resources
 
 - [Link to Tutorial Slide](https://docs.google.com/presentation/d/1MvHjWl2WEF1pEBkwQiYdrkYrMv_HQq-h3ZEVxITpoT4/edit?usp=sharing)
+- [Model Serving and Deployment Terminologies](https://ai6lagoss.notion.site/Model-Serving-and-Deployment-Terminologies-2907a17a7f0a4b43b4fd9f4c6dbbe780)
 
 
 ## APIs
