@@ -10,8 +10,8 @@ This tutorial on model serving and monitoring with Flask and Heroku was prepared
 
 
 ## APIs
-- Staging: https://ai6lagos-cancer-app-staging.herokuapp.com/predict
-- Production:https://ai6lagos-cancer-app.herokuapp.com/predict
+- Staging: https://ai6lagos-c7-cancer-app-staging.herokuapp.com/predict
+- Production:https://ai6lagos-c7-cancer-app.herokuapp.com/predict
 
 ## Using test data
 ```
