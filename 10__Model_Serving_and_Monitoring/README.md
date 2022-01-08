@@ -1,7 +1,7 @@
 # Model Serving and Monitoring with Flask and Heroku
 
 
-This tutorial on model serving and monitoring with Flask and Heroku was prepared by **Fortune Adekogbe** and taught by **Tejumade Afonja**. Kindly reach out to [this email](teju.afonja@aisatudayslagos.com) for any questions or clarifications.
+This tutorial on model serving and monitoring with Flask and Heroku was prepared by **[Fortune Adekogbe](https://www.linkedin.com/in/fortune-adekogbe-a81580176/)** and taught by **[Tejumade Afonja](https://www.tejuafonja.com)**. Kindly reach out to [this email](teju.afonja@aisatudayslagos.com) for any questions or clarifications.
 
 
 ## Resources
