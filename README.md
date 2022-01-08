@@ -16,6 +16,6 @@ Week | Date | Topic | TAs
 8 | 23-Oct | [Intro to Numpy](5__Introduction_to_Numpy) | [Akintunde Oladipo](https://www.linkedin.com/in/olasakins/), [Gideon Onyewuenyi](https://www.linkedin.com/in/gideononyewuenyi/), [Sandra Oriji](https://www.linkedin.com/in/oriji-sandra-onyinyechi-91a4a3163/)
 9 | 6-Nov | [Intro to Sklearn](6__Introduction_to_Scikit_Learn) |  [Chizurum Olorondu](https://www.linkedin.com/in/chizurumolorondu/)
 10 | 30-Oct | [Outlier and Anomaly Detection](7__Outlier_and_Anomaly_Detection) | [Kawthar Babatunde](https://www.linkedin.com/in/kawtharbabatunde/)
-11 | 13-Nov |[Model and Data Versioning]((8__Feature_Engineering_Automation) )| [Akintunde Oladipo](https://www.linkedin.com/in/olasakins/)
+11 | 13-Nov |[Model and Data Versioning](8__Feature_Engineering_Automation)| [Akintunde Oladipo](https://www.linkedin.com/in/olasakins/)
 12 | 20-Nov | [Feature Engineering Automation](9__Model_and_Data_Versioning) | [Oluwafemi Azeez](https://www.linkedin.com/in/azeez-oluwafemi/)
 13 | 27-Nov | [Model Serving and Monitoring](10__Model_Serving_and_Monitoring)| [Tejumade Afonja](https://www.linkedin.com/in/tejumadeafonja/)
