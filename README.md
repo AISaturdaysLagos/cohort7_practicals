@@ -19,3 +19,4 @@ Week | Date | Topic | TAs
 11 | 13-Nov |[Model and Data Versioning](8__Feature_Engineering_Automation)| [Akintunde Oladipo](https://www.linkedin.com/in/olasakins/)
 12 | 20-Nov | [Feature Engineering Automation](9__Model_and_Data_Versioning) | [Oluwafemi Azeez](https://www.linkedin.com/in/azeez-oluwafemi/)
 13 | 27-Nov | [Model Serving and Monitoring](10__Model_Serving_and_Monitoring)| [Tejumade Afonja](https://www.linkedin.com/in/tejumadeafonja/)
+14 | 22-Jan | [Recommender Systems](11__Recommender_Systems)| [Farouq Oyebiyi](https://www.linkedin.com/in/farouq-oyebiyi-87ba2528/)
